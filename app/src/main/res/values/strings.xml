@@ -1,0 +1,43 @@
+<resources>
+    <string name="app_name">todolist</string>
+    <string name="title_activity_main2">Main2Activity</string>
+
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+
+    <string name="action_settings">Settings</string>
+    <string name="delete">delete</string>
+    <string name="name">Name</string>
+    <string name="nbTasks">nb Tasks</string>
+    <string name="menu_list">menu_list</string>
+    <string name="settings">Settings</string>
+    <string name="closemenu">close menu</string>
+    <string name="donetask">donetask</string>
+    <string name="status">Status</string>
+    <string name="done">Done</string>
+    <string name="todo">To do</string>
+    <string name="daterange">daterange</string>
+    <string name="date">Date</string>
+    <string name="passed">Passed</string>
+    <string name="uptodate">Up to Date</string>
+    <string name="categories">Categories</string>
+    <string name="cancel">Cancel</string>
+    <string name="save">Save</string>
+    <string name="title">Title</string>
+    <string name="clock">closemenu</string>
+    <string name="label">label</string>
+    <string name="todo1">To do...</string>
+    <string name="finish">finish</string>
+    <string name="categoriesnb">Categories (nb)</string>
+    <string name="ok">OK</string>
+    <string name="cancelCap">CANCEL</string>
+    <string name="deletetask">Are you sure you want to delete that Task ?</string>
+    <string name="yes">Yes</string>
+    <string name="doneclick">done click</string>
+    <string name="todoclick">to do click</string>
+    <string name="datetemp">16:30</string>
+    <string name="monthtemp">21/03</string>
+    <string name="yeartemp">2017</string>
+    <string name="addcategories">addcategories</string>
+    <string name="dialog">dialog</string>
+</resources>
